@@ -26,7 +26,7 @@ with open ("RESPONES3.json","r") as fi:
 st.title("Question and Answer Generator") 
 
 with st.form("user_inputs"):
-    question_type=st.selectbox("which type of question you want?",("MCQ","SAQ","Long"))
+    question_type=st.selectbox("which type of question you want?",("MCQ","SAQ"))
     upload_file=st.file_uploader("upload a PDF or Txt file")
     number_ques=st.number_input("No of mcq",min_value=1,max_value=1000) 
     subject=st.text_input("subject name",max_chars=30) 
