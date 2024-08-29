@@ -1,0 +1,36 @@
+{
+    "1": {
+         "saq": "Explain the process of photosynthesis in plants.",
+         "expected_answer": {
+             "key_points": [
+                 "Chlorophyll absorbs sunlight",
+                 "Conversion of carbon dioxide and water",
+                 "Production of glucose and oxygen"
+             ],
+             "length": "150-200 words"
+         } 
+    },
+    "2": {
+         "saq": "Explain the process of photosynthesis in plants.",
+         "expected_answer": {
+             "key_points": [
+                 "Chlorophyll absorbs sunlight",
+                 "Conversion of carbon dioxide and water",
+                 "Production of glucose and oxygen"
+             ],
+             "length": "150-200 words"
+         } 
+    },
+    "3": {
+         "saq": "Explain the process of photosynthesis in plants.",
+         "expected_answer": {
+             "key_points": [
+                 "Chlorophyll absorbs sunlight",
+                 "Conversion of carbon dioxide and water",
+                 "Production of glucose and oxygen"
+             ],
+             "length": "150-200 words"
+         } 
+    }
+    
+ }

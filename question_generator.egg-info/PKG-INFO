@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: question_generator
+Version: 0.0.1
+Author: muttalip
+Author-email: sahilsheikh2187@gmail.com
+Requires-Dist: langchain-community
+Requires-Dist: langchain-google-genai
+Requires-Dist: google-generativeai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2

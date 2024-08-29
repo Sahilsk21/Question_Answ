@@ -1,0 +1,5 @@
+SAQ,Answer
+What is the difference between supervised and unsupervised learning in machine learning?,"['Supervised learning uses labeled data to train models, while unsupervised learning uses unlabeled data to find patterns.', 'Supervised learning focuses on prediction, while unsupervised learning focuses on discovering hidden structures in data.']"
+What are the two main objectives of modern-day machine learning?,"['Classifying data based on developed models.', 'Making predictions for future outcomes based on these models.']"
+What is the main difference between machine learning and statistics?,"['Statistics draws population inferences from a sample, while machine learning finds generalizable predictive patterns.']"
+"What is feature learning in machine learning, and what are its advantages?","['Feature learning discovers better representations of input data, often as a pre-processing step.', 'It automates feature engineering, allowing machines to learn features and use them for specific tasks.']"
